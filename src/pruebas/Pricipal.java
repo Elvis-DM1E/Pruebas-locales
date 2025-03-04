@@ -10,5 +10,8 @@ public class Pricipal {
         Rama1 miRama = new Rama1();
         
         miRama.escribirMensaje("Practicando con la primera rama");
+        
+        ComoQuierasSecuela cqs = new ComoQuierasSecuela();
+        cqs.escribirMensaje("Mensaje de Como quieras secuela");
     }
 }
