@@ -19,6 +19,7 @@ public class Pricipal {
         miRama.escribirMensaje("Practicando merge con conflictos");
         
         //Comentario para commit
+        //Commit para pull
 
     }
 }
